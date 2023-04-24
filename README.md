@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ethan Storm</h1>
 <h3 align="center">A passionate Full Stack Developer from California</h3>
 
@@ -10,6 +11,8 @@
 - 💬 Ask me about **Web development and Game development**
 
 - 📫 How to reach me **stormethan10@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
