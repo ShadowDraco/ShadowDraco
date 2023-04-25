@@ -25,7 +25,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <h3 align="left">Web development</h3>
-<div style="display: flex; gap: 2em;">
+<div style="display: flex; flex-direction: row; gap: 2em;">
 <p>
 <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p><p>
@@ -47,7 +47,7 @@
 
 <h3 align="left"> Services</h3>
   
-<div style="display: flex; gap:2em;">
+<div style="display: flex; gap:2em; width: fit-content;">
 <a  href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 
 <a  href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
@@ -59,6 +59,7 @@
 <h3 align="left"> Secondary skills</h3>
 
 <div style="display: flex; gap: 2em;">
+
 <a  href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
 <a  href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -71,7 +72,7 @@
 
 </div>
 
-<div style="width:fit-content;" style="display: flex; gap:3em;">
+<div  style="display: flex; gap:3em;">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowdraco&show_icons=true&locale=en&layout=compact" alt="shadowdraco" /></p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api?username=shadowdraco&show_icons=true&locale=en" alt="shadowdraco" /></p>
