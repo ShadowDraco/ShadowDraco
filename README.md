@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowdraco&label=Profile%20views&color=0e75b6&style=flat" alt="shadowdraco" /> </p>
 
 <div align="center">
- 🌱 I’m currently learning **Javascript/Typescript, React, SQL/NOSQL, testing**
+ 🌱 I’m currently learning **Full-Stack Web Development** including Javascript/Typescript, React, SQL/NOSQL, testing (and so much more)
 
 👨‍💻 All of my projects are available at [github.com/shadowdraco](github.com/shadowdraco)
 
-💬 Ask me about **Web development and Game development**
+💬 Ask me about **Web development** <small>and Game development</small>
 
 📫 Reach me at: **stormethan10@gmail.com**
 
