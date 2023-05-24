@@ -126,5 +126,5 @@
 
 <p><img  src="https://github-readme-stats.vercel.app/api?username=shadowdraco&show_icons=true&locale=en&theme=transparent" alt="shadowdraco" /></p>
  
- [![Ethan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShadowDraco)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
