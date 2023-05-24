@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowdraco&label=Profile%20views&color=0e75b6&style=flat" alt="shadowdraco" /> </p>
 
 <div align="center">
- 🌱 I’m currently learning **Full-Stack Web Development** including Javascript/Typescript, React, SQL/NOSQL, testing (and so much more)
+ 🌱 I’m currently learning *Full-Stack Web Development* including Javascript/Typescript, React, SQL/NOSQL, testing (and so much more)
 
 👨‍💻 All of my projects are available at [github.com/shadowdraco](github.com/shadowdraco)
 
