@@ -50,6 +50,11 @@
 </td>
 <td>
 <p style="width: 50px;">
+<a  href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgreSQL" width="40" height="40"/> </a>
+</p>
+</td>
+ <td>
+<p style="width: 50px;">
 <a  href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 </td>
