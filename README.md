@@ -13,7 +13,7 @@
 <br><h2 align="center">How do I do it? </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target='blank'>
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,threejs,vite,nextjs,nodejs,express,jest,postgres,mongodb,sqlite,sequelize,html,css,sass,bootstrap,materialui,linux,java,cs,cpp,py,firebase,aws,heroku,netlify,vercel,github,githubactions,vscode,idea,unity,visualstudio,eclipse&perline=12" />
   </a>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-💬 Ask me about **Software development** and Game development
+💬 Ask me about **Software development** and *Game development*
 
 </div>
 
@@ -31,14 +31,17 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://shields.io/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stormethan10@gmail.com)
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowdraco&show_icons=true&locale=en&layout=compact&theme=transparent"
-alt="shadowdraco"
-/> <img 
+<!--
+<img 
   src="https://github-readme-stats.vercel.app/api?username=shadowdraco&show_icons=true&locale=en&theme=transparent"
   alt="shadowdraco"
-/>
-
+/> <img
+src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowdraco&show_icons=true&locale=en&layout=compact&theme=transparent"
+alt="shadowdraco"
+/> 
+-->
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+The code that built my foundation in programming is not tracked by GitHub. Though, that quality and time shall reflect ever more through my current works!
