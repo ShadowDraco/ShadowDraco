@@ -2,7 +2,7 @@ name: D-GitHub-Profile-Contrib
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
-    - cron: '0 18 * * *'
+    - cron: '0 19 * * *'
   workflow_dispatch:
 
 jobs:
