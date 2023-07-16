@@ -1,5 +1,5 @@
 ![dance](https://github.com/ShadowDraco/ShadowDraco/blob/main/assets/dance.gif)
-# Hi I'm Ethan
+# Hi, I'm Ethan
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lugrasimo&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer+and+Performer;Full+Stack+Dancer%3F;Full+Stack+Developer+%E2%9C%94)](https://git.io/typing-svg)
 
