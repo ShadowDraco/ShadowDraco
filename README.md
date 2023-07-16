@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,threejs,vite,nextjs,nodejs,express,jest,postgres,mongodb,sqlite,sequelize,html,css,sass,bootstrap,materialui,linux,java,cs,cpp,py,firebase,aws,heroku,netlify,vercel,github,githubactions,vscode,idea,unity,visualstudio,eclipse&iconsPerLine=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,threejs,vite,nextjs,nodejs,express,jest,postgres,mongodb,sqlite,sequelize,html,css,sass,bootstrap,materialui,linux,java,cs,cpp,py,firebase,aws,heroku,netlify,vercel,github,githubactions,vscode,idea,unity,visualstudio,eclipse&perline=12" />
   </a>
 
 </p>
