@@ -7,8 +7,8 @@
 
 - I've always been a developer and an artist
 - My hobbies have always been constructive and fulfilling through challenge
-- As a software developer I am able to put all of my skills and perseverance into action
-- Providing a stable life for my future family and remaining consistent is a must for me.
+- As a developer I put all of my skills and perseverance into action
+- Providing a stable life for my future family and remaining consistent is a must
 
 <br><h4 align="center">How do I do it? </h4>
 
@@ -40,3 +40,5 @@ alt="shadowdraco"
 />
 
 </div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
