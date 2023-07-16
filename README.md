@@ -44,4 +44,4 @@ alt="shadowdraco"
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-The code that built my foundation in programming is not tracked by GitHub. Though, that quality and time shall reflect ever more through my current works!
+The code that built my foundation in programming is not tracked by GitHub. Though, that quality and time is easily seen in the present!
