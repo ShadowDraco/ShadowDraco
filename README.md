@@ -10,7 +10,7 @@
 - As a developer I put all of my skills and perseverance into action
 - Providing a stable life for my future family and remaining consistent is a must
 
-<br><h4 align="center">How do I do it? </h4>
+<br><h2 align="center">How do I do it? </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
