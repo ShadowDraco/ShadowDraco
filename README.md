@@ -1,7 +1,17 @@
 ![dance](https://github.com/ShadowDraco/ShadowDraco/blob/main/assets/dance.gif)
-# Hi, I'm Ethan
+# Hi, I'm Ethan - Full Stack Software Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lugrasimo&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer+and+Performer;Full+Stack+Dancer%3F;Full+Stack+Developer+%E2%9C%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lugrasimo&size=22&duration=4000&pause=1000&center=false&vCenter=true&width=435&lines=Software+Developer+and+Performer;Full+Stack+Dancer%3F;Full+Stack+Developer+%E2%9C%94)](https://git.io/typing-svg)
+
+### What does that mean?
+
+- ### Full Stack Developer --> <small><em>Front end + Backend</em></small>
+- I write code for websites, and the functionalities on those websites.
+- I write servers for websites as well, and I bridge the gap between those places! <em>(That makes it 'Full Stack')</em>
+- ### Software Developer --> You name it!
+- A more gernal term encompasing other types of applications from phone apps, computer apps, video games and more!
+- Software developers often plan things from the ground up to meet needs, and or maintain applications already made
+
 
 ### Why do I code?
 
