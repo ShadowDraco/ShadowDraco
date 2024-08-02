@@ -56,6 +56,4 @@ alt="shadowdraco"
 -->
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 Much of the code that built my foundation in programming is not tracked by GitHub. Though, that quality and time is easily seen in my present, becoming Full Stack Web developer and improving my skills in all categories!
